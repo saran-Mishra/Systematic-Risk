@@ -8,3 +8,10 @@ Traditionally, the Capital Asset Pricing Model (CAPM) assumes that the risk prem
 Ovbiously there are many contributing factor: Risk Aversion, Psychological Bias, Model Limitations, and rare (black swan) events, to name a few. 
 
 
+# (2) From CAPM to Learners
+
+# (3) Modelling contributing factors via Stochastic parameter estimation
+
+# (4) Learners for stochastic parameter
+
+# (5) Final Model proposition/evaluation
